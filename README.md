@@ -4,7 +4,7 @@
 
 This project is built to predict employee attrition using machine learning. The goal is not just to build a model, but to understand how machine learning decisions change based on real business needs.
 
-While working on this project, I focused on understanding *why employees leave* and how a model can help HR take early action.
+While working on this project, I focused on understanding *why employees leave* and how a model can help the HR take early action.
 
 ---
 
